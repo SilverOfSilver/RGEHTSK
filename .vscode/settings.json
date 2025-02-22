@@ -53,6 +53,10 @@
 		"stdexcept": "cpp",
 		"streambuf": "cpp",
 		"cinttypes": "cpp",
-		"typeinfo": "cpp"
+		"typeinfo": "cpp",
+		"CollisionSphere.H": "cpp",
+		"CameraController.H": "cpp",
+		"Triangle.H": "cpp",
+		"OBJLoader.H": "cpp"
 	}
 }
