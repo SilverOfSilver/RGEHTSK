@@ -53,7 +53,7 @@ void DrawCubeFromBoundingBox(BoundingBox box, Color color) {
 }
 
 int main() {
-    int screenWidth = 1000;
+    int screenWidth = 1003;
     int screenHeight = 800;
     InitWindow(screenWidth, screenHeight, "3D Box Collision with Sphere Sliding");
     bool jump = false;
